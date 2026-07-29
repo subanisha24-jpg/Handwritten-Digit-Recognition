@@ -1,0 +1,8 @@
+```txt
+tensorflow
+numpy
+opencv-python
+matplotlib
+pillow
+h5py
+```
